@@ -2,6 +2,13 @@
 
 Create handoff documents that let **any AI coding agent** continue your work.
 
+## Install
+
+```
+/plugin marketplace add willseltzer/claude-handoff
+/plugin install handoff
+```
+
 ## Why?
 
 AI sessions have limited context. When you switch tools, take a break, or hit a context limit, the next agent starts from scratch. Handoffs solve this by capturing:
@@ -11,13 +18,6 @@ AI sessions have limited context. When you switch tools, take a break, or hit a 
 - What failed (so the next agent doesn't repeat mistakes)
 - Key decisions and their rationale
 - Exactly how to continue
-
-## Install
-
-```
-/plugin marketplace add willseltzer/claude-handoff
-/plugin install handoff
-```
 
 ## Commands
 

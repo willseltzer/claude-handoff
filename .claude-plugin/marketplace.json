@@ -1,11 +1,17 @@
 {
   "name": "handoff-marketplace",
-  "description": "Handoff plugin for Claude Code",
+  "owner": {
+    "name": "willseltzer"
+  },
+  "metadata": {
+    "description": "Handoff plugin for Claude Code"
+  },
   "plugins": [
     {
       "name": "handoff",
+      "source": ".",
       "description": "Hand off context to any AI coding agent",
-      "path": "."
+      "version": "1.0.0"
     }
   ]
 }
