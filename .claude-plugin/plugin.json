@@ -3,7 +3,9 @@
   "description": "Hand off context to any AI coding agent. Creates comprehensive handoff documents that capture the current task, progress, modified files, and all relevant context needed to seamlessly continue work in any AI assistant (Claude Code, Cursor, Copilot, Aider, etc.).",
   "version": "1.0.0",
   "author": {
-    "name": "Claude Code"
+    "name": "willseltzer"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/willseltzer/claude-handoff",
+  "repository": "https://github.com/willseltzer/claude-handoff"
 }

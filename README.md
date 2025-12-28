@@ -15,7 +15,8 @@ AI sessions have limited context. When you switch tools, take a break, or hit a 
 ## Install
 
 ```bash
-claude --plugin-dir /path/to/claude-handoff
+git clone https://github.com/willseltzer/claude-handoff
+claude /plugins install ./claude-handoff
 ```
 
 ## Commands
