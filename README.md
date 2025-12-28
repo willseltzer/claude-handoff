@@ -4,6 +4,8 @@ Create handoff documents that let **any AI coding agent** continue your work.
 
 ## Install
 
+Run these commands inside Claude Code:
+
 ```
 /plugin marketplace add willseltzer/claude-handoff
 /plugin install handoff
