@@ -1,0 +1,11 @@
+{
+  "name": "handoff-marketplace",
+  "description": "Handoff plugin for Claude Code",
+  "plugins": [
+    {
+      "name": "handoff",
+      "description": "Hand off context to any AI coding agent",
+      "path": "."
+    }
+  ]
+}
